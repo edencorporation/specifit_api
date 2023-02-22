@@ -1,2 +1,2 @@
-# specifit_api
-SpeciFit APIs
+# Specifit API
+This is a Food Nutrition API used by SpeciFit App.
